@@ -13,7 +13,7 @@ public class Student {
         System.out.println("Name is "+name);
     }
     void displayAge(){
-        System.out.println("Age is"+age);
+        System.out.println("Age is "+age);
     }
     void studentData(){
         System.out.println("Student name: "+name+", semester: "+semester+", average grade: "+averageGrade);
